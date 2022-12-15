@@ -10,11 +10,23 @@ The Amazon Vines "Beauty" dataset was first read in with 5,115,666 reviews. In o
   * Percent of Helpful Votes to Total Votes equal or greater than 50%.
 
 
- ### How many74113 Vine reviews and non Vine reviews were there?
+ ### Total Vine/Non-Vine Reviews
  The previous filters helped to bring our total reviews focus down to 74,760. 
-  * 647 Vine (paid) Reviews
+  * 647 Vine (paid) reviews
   * 74113 non Vine (unpaid) reviews
  ![total_reviews_count](https://user-images.githubusercontent.com/110632671/207783619-7d1d0137-5b9e-452e-b59f-5d6f51142a31.png)
+ 
+ ### Total Five Star Vine/Non-Vine Reviews 
+  * 228 five star Vine (paid) reviews
+  * 42612 five star non_Vine(unpaid) reviews
+ ![five_star_reviews](https://user-images.githubusercontent.com/110632671/207787560-6cfc3bd8-678a-40c0-b761-dcaa6d9cc0f0.png)
+ 
+ ### Percentage of Five Star Vine/Non-Vine Reviews
+  * 35% of five star reviews were paid Vine program reviews
+  * 57% of five star reviews were not paid or part of the Vine program
+  ![percentage_reviews](https://user-images.githubusercontent.com/110632671/207788112-46b8ee65-5562-4fcb-b141-d46777bfbcd8.png)
+
+ 
 
  
 
